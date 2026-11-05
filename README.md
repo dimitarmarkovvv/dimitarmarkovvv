@@ -12,7 +12,7 @@
 
 ### 🚀 Projects
 
-**[LearnCrypto](https://learn-crypto-five.vercel.app)** is a discussion forum for cryptocurrency, with threaded discussions, voting and live market prices. It was my Telerik Academy final project, built in a team of three.
+**[LearnCrypto](https://learn-crypto-five.vercel.app)** is a discussion forum for cryptocurrency, with threaded discussions, voting and live market prices. It was my Telerik Academy final project.
 
 **[Live demo](https://learn-crypto-five.vercel.app)** • **[Source code](https://github.com/dimitarmarkovvv/LearnCrypto)**
 
