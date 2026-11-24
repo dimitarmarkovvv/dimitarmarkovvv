@@ -47,4 +47,3 @@ Based in Bulgaria, working remotely. I trained as a full-stack developer at Tele
 ---
 
 <p align="center"><b>Got work that eats hours every week?</b> <a href="https://dimitarmarkov.dev">See what I build</a> or <a href="https://calendly.com/dimitarmarkov75/30min">book a free 30-minute call →</a></p>
-75/30min">Book a free 30-minute call →</a></p>
